@@ -11,7 +11,7 @@ Use instructions:
 - Once installed go to the settings of Fantasy Statblocks
 - Scroll down to "Import Generic Data"
 - Choose the converted_monsters.json file I have provided to you
-- *Update* Also download the Black Flag Monsters and MM 2025 Monsters json files to upload them into the bestiary. These don't overwrite the monsters in A5e added by the original json upload. 
+- **Update:** Also download the Black Flag Monsters and MM 2025 Monsters json files to upload them into the bestiary. These don't overwrite the monsters in A5e added by the original json upload. 
 - Ta-da! Should be good to go at base level after this, if you want to enable lazy gm difficulty gauge or other QOL things I will give a tiny spiel below
 
 Optional things that might help:
@@ -40,7 +40,7 @@ https://github.com/benhodges65/artisinal-monsters-obsidian/assets/77591479/a2811
 
 If you want to use the script:
 Dependencies are in the maven file and other than that script is easy to run if familiar with Java. If using another monster file just set the file location to its respective area. Other than that message me or raise issue if needed. 
-*Update* The parsers used to scrape the markdown statblocks and convert them into the json format for obsidian is included in the repo as well. It will likely take some touchup editing to make it work for you, as I used an LLM for assistance, but it should be more than a good starting point. 
+**Update:** The parsers used to scrape the markdown statblocks and convert them into the json format for obsidian is included in the repo as well. It will likely take some touchup editing to make it work for you, as I used an LLM for assistance, but it should be more than a good starting point. 
 
 
 5e Artisanal Monster Database Licensing
